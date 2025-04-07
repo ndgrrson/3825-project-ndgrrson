@@ -5,6 +5,8 @@ Nikolas Garrison
 COMP 3825 - Network/Info Assurance
 Final Project
 
+GitHub repository: https://github.com/ndgrrson/3825-project-ndgrrson
+
 This program is a client/server chat application using Python. It includes encrypted messaging, confirms to the user when their message has been sent, and allows multiple users to connect.
 
 To begin using it:
